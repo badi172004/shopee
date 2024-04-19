@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "dev": "npx tailwindcss -i ./input/input.css -o ./src/output.css --watch",
+    "tailwindcss": "^3.4.3"
+  }
+}
